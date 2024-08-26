@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soupu07
+- 👋 Hi, I’m Souparna Hui
 - 👀 I’m interested in Coding & visualisation of data
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects realted to analysis and data visualisation
